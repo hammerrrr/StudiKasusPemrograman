@@ -1,3 +1,6 @@
+# Nama: Ivan Nur Ilham Syah
+# NIM: 19.11.2742
+
 # Promos
 Aplikasi sederhana sesuai studi kasus yang diberikan dosen untuk memenuhi tugas UAS. Aplikasi ini berfungsi untuk
 simulasi pembelian makanan/minuman dengan implementasi promo/voucher.
